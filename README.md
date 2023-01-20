@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jephthah Mensah**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
@@ -18,19 +18,23 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+  
+  * Responsive navigation bar for wide screen
+  
+  * Responsive navigation bar for narrow screen: Because there are just two items on the navigation bar I decided not to create a hamburger menu for the navigation bar of the narrow screen
+  * Changed the background color of the show buttons
+  * Improved on the feedback of the show buttons by adding a shawdow when they are hovered
+  * Boldened the introduction section that explains the background of the company.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[GIF](walkthroughGIF.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with
+
+[Placeit](https://placeit.net/video-to-gif-converter) for Windows
 
 ## Notes
 
